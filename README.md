@@ -1,4 +1,10 @@
-# Windows-Hardware-Info
+<p align="center">
+  <img width="100" src="https://imgur.com/3cw4DQr.png" alt="NetScan Security Logo" />
+  <h2 align="center">NetScan Windows Hardware Info</h2>
+  <p align="center">Precision Scans, Real-time Defense</p>
+</p>
+
+# Description
 A project written in C++ to get hardware info on a Windows PC. Interfaces with the Windows Management Instrumentation (WMI) service to query hardware info of interest and provides a basic command line interface. 
 
 Retrieves the following:
